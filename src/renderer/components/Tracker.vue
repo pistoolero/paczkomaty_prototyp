@@ -67,7 +67,7 @@ export default {
         lat: 52.4664886,
         lng: 16.9243717
       },
-      icon: "/static/img/parcel.png"
+      icon: "/static/img/parcel.png",
       zoom: 14,
       markers: markers,
       hideAccuracy: false,
