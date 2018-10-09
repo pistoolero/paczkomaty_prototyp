@@ -1,0 +1,866 @@
+[
+    {
+        "name": "Przy supermarkecie Netto",
+        "number": "PLW01N",
+        "lat": 52.37851,
+        "lng": 16.82368,
+        "street": "Szarotkowa 21",
+        "postal": "60-175 Poznań"
+    },
+    {
+        "name": "UBEZPIECZENIA BLISKO CIEBIE",
+        "number": "POP-POZ33",
+        "lat": 52.36684,
+        "lng": 16.89571,
+        "street": "Jesionowa 20/4",
+        "postal": "61-434 Poznań"
+    },
+    {
+        "name": "SKLEP SPOŻYWCZY ODIDO",
+        "number": "POP-POZ41",
+        "lat": 52.40633,
+        "lng": 16.87747,
+        "street": "Międzychodzka 16/31",
+        "postal": "60-371 Poznań"
+    },
+    {
+        "name": "SKLEP RABAT",
+        "number": "POP-POZ50",
+        "lat": 52.41137,
+        "lng": 16.89658,
+        "street": "Szamarzewskiego 33",
+        "postal": "60-568 Poznań"
+    },
+    {
+        "name": "COLPORTEX",
+        "number": "POP-POZ52",
+        "lat": 52.44942,
+        "lng": 16.94184,
+        "street": "Os. Władysława Łokietka 102",
+        "postal": "61-616 Poznań"
+    },
+    {
+        "name": "Przy Fitness Club Podolany",
+        "number": "POZ01A",
+        "lat": 52.44955,
+        "lng": 16.89326,
+        "street": "Strzeszyńska 61A",
+        "postal": "60-479 Poznań"
+    },
+    {
+        "name": "Przy sklepie Żabka",
+        "number": "POZ01G",
+        "lat": 52.36294,
+        "lng": 16.90699,
+        "street": "Łozowa 101",
+        "postal": "61-442 Poznań"
+    },
+    {
+        "name": "Stacja paliw Watis",
+        "number": "POZ01N",
+        "lat": 52.38172,
+        "lng": 16.84755,
+        "street": "Wieruszowska 20",
+        "postal": "60-166 Poznań"
+    },
+    {
+        "name": "W sklepie BricoMarche czynnym od poniedziałku do soboty 8:00-21:00 i w niedzielę 10:00-20:00",
+        "number": "POZ01Q",
+        "lat": 52.43709,
+        "lng": 16.917,
+        "street": "Al. Solidardności 47",
+        "postal": "61-696 Poznań"
+    },
+    {
+        "name": "Przy sklepie Fresh Market",
+        "number": "POZ02A",
+        "lat": 52.37717,
+        "lng": 16.96652,
+        "street": "Os. Orła Białego 58",
+        "postal": "61-251 Poznań"
+    },
+    {
+        "name": "Stacja paliw BP",
+        "number": "POZ02B",
+        "lat": 52.4133,
+        "lng": 16.83406,
+        "street": "Bukowska 285",
+        "postal": "60-189 Poznań"
+    },
+    {
+        "name": "Przy markecie Rabat",
+        "number": "POZ02N",
+        "lat": 52.41253,
+        "lng": 16.98243,
+        "street": "Łabiszyńska 2",
+        "postal": "60-720 Poznań"
+    },
+    {
+        "name": "Przy markecie Netto",
+        "number": "POZ03A",
+        "lat": 52.37424,
+        "lng": 16.89551,
+        "street": "Czeremchowa 3-5",
+        "postal": "61-474 Poznań"
+    },
+    {
+        "name": "Parking pasażu Czerwona Torebka",
+        "number": "POZ03B",
+        "lat": 52.39374,
+        "lng": 16.99138,
+        "street": "Szwajcarska 1",
+        "postal": "61-285 Poznań"
+    },
+    {
+        "name": "Przy myjni bezdotykowej",
+        "number": "POZ03L",
+        "lat": 52.40988,
+        "lng": 16.8679,
+        "street": "Bułgarska 117",
+        "postal": "60-378 Poznań"
+    },
+    {
+        "name": "Przy markecie Rabat",
+        "number": "POZ03N",
+        "lat": 52.43112,
+        "lng": 16.82405,
+        "street": "Pniewska 15",
+        "postal": "60-446 Poznań"
+    },
+    {
+        "name": "Stacja paliw Shell",
+        "number": "POZ04A",
+        "lat": 52.41051,
+        "lng": 16.86836,
+        "street": "Bułgarska 119",
+        "postal": "60-378 Poznań"
+    },
+    {
+        "name": "Stacja paliw Shell",
+        "number": "POZ04B",
+        "lat": 52.40515,
+        "lng": 16.95335,
+        "street": "Jana Pawła II 12",
+        "postal": "61-139 Poznań"
+    },
+    {
+        "name": "Stacja paliw Lotos",
+        "number": "POZ04L",
+        "lat": 52.41574,
+        "lng": 16.8913,
+        "street": "Żeromskiego 3",
+        "postal": "60-544 Poznań"
+    },
+    {
+        "name": "Przy markecie Carrefour",
+        "number": "POZ04N",
+        "lat": 52.4384,
+        "lng": 16.94109,
+        "street": "Kosmonautów 104",
+        "postal": "61-642 Poznań"
+    },
+    {
+        "name": "Stacja paliw Shell",
+        "number": "POZ05A",
+        "lat": 52.43599,
+        "lng": 16.91461,
+        "street": "Al. Solidarności 55",
+        "postal": "61-696 Poznań"
+    },
+    {
+        "name": "Przy Centrum Handlowym 24",
+        "number": "POZ05B",
+        "lat": 52.42978,
+        "lng": 16.84914,
+        "street": "Tatrzańska 1/5",
+        "postal": "60-413 Poznań"
+    },
+    {
+        "name": "Stacja paliw Circle K",
+        "number": "POZ05N",
+        "lat": 52.38643,
+        "lng": 16.96088,
+        "street": "Piłsudskiego 110",
+        "postal": "61-246 Poznań"
+    },
+    {
+        "name": "Stacja paliw Shell",
+        "number": "POZ06A",
+        "lat": 52.44288,
+        "lng": 16.91008,
+        "street": "Lechicka 2",
+        "postal": "61-695 Poznań"
+    },
+    {
+        "name": "Stacja paliw Shell",
+        "number": "POZ06L",
+        "lat": 52.35682,
+        "lng": 16.99442,
+        "street": "Krzywoustego 309",
+        "postal": "61-144 Poznań"
+    },
+    {
+        "name": "Przy markecie Lewiatan",
+        "number": "POZ06N",
+        "lat": 52.47776,
+        "lng": 16.78183,
+        "street": "Chojnicka 53",
+        "postal": "60-480 Poznań"
+    },
+    {
+        "name": "Stacja paliw Lukoil",
+        "number": "POZ07B",
+        "lat": 52.37494,
+        "lng": 16.86899,
+        "street": "Głogowska 268",
+        "postal": "60-104 Poznań"
+    },
+    {
+        "name": "Przy sklepie Agata Meble",
+        "number": "POZ07L",
+        "lat": 52.35797,
+        "lng": 16.84534,
+        "street": "Głogowska 422",
+        "postal": "60-004 Poznań"
+    },
+    {
+        "name": "Przy bramie wjazdowej obok parkingu",
+        "number": "POZ07N",
+        "lat": 52.4149,
+        "lng": 16.96573,
+        "street": "Świętego Michała 54",
+        "postal": "61-005 Poznań"
+    },
+    {
+        "name": "Stacja paliw BP",
+        "number": "POZ08A",
+        "lat": 52.39652,
+        "lng": 16.86869,
+        "street": "Grunwaldzka 108",
+        "postal": "60-308 Poznań"
+    },
+    {
+        "name": "Przy biurowcu",
+        "number": "POZ08B",
+        "lat": 52.4044,
+        "lng": 16.8657,
+        "street": "Marcelińska 90",
+        "postal": "60-324 Poznań"
+    },
+    {
+        "name": "Przy markecie Lidl",
+        "number": "POZ08L",
+        "lat": 52.40623,
+        "lng": 16.92769,
+        "street": "św. Marcin 24",
+        "postal": "61-805 Poznań"
+    },
+    {
+        "name": "Przy zakładzie mięsnym Bystry",
+        "number": "POZ08N",
+        "lat": 52.42284,
+        "lng": 16.86551,
+        "street": "os. Lotnictwa Polskiego 9",
+        "postal": "60-406 Poznań"
+    },
+    {
+        "name": "Przy markecie Tesco",
+        "number": "POZ09A",
+        "lat": 52.38069,
+        "lng": 16.86617,
+        "street": "Mrągowska 4",
+        "postal": "60-161 Poznań"
+    },
+    {
+        "name": "Parking Galerii Malwowej",
+        "number": "POZ09B",
+        "lat": 52.39692,
+        "lng": 16.80237,
+        "street": "Malwowa 162",
+        "postal": "60-175 Poznań"
+    },
+    {
+        "name": "Przy markecie Biedronka",
+        "number": "POZ09ML",
+        "lat": 52.4519,
+        "lng": 16.92298,
+        "street": "Bolesława Śmiałego 109",
+        "postal": "60-682 Poznań"
+    },
+    {
+        "name": "Przy Aptece",
+        "number": "POZ09N",
+        "lat": 52.45154,
+        "lng": 16.94823,
+        "street": "Naramowicka 172",
+        "postal": "61-611 Poznań"
+    },
+    {
+        "name": "Przy markecie Biedronka",
+        "number": "POZ10A",
+        "lat": 52.36694,
+        "lng": 16.93151,
+        "street": "Książęca 3",
+        "postal": "61-361 Poznań"
+    },
+    {
+        "name": "Przy sklepie Kaufland",
+        "number": "POZ10B",
+        "lat": 52.43531,
+        "lng": 16.92752,
+        "street": "Al. Solidarności 42",
+        "postal": "61-696 Poznań"
+    },
+    {
+        "name": "Przy markecie Biedronka",
+        "number": "POZ10ML",
+        "lat": 52.38415,
+        "lng": 16.9222,
+        "street": "Dolna Wilda 109",
+        "postal": "61-492 Poznań"
+    },
+    {
+        "name": "Przy sklepie Dekoral",
+        "number": "POZ10N",
+        "lat": 52.36743,
+        "lng": 16.88736,
+        "street": "Kwiatkowskiego 55",
+        "postal": "61-422 Poznań"
+    },
+    {
+        "name": "Stacja paliw Shell",
+        "number": "POZ11A",
+        "lat": 52.39987,
+        "lng": 16.96886,
+        "street": "Abp.Baraniaka 100",
+        "postal": "61-245 Poznań"
+    },
+    {
+        "name": "Przy markecie Biedronka",
+        "number": "POZ11ML",
+        "lat": 52.38592,
+        "lng": 16.97736,
+        "street": "Czecha 73",
+        "postal": "61-289 Poznań"
+    },
+    {
+        "name": "Przy sklepie Chata Polska",
+        "number": "POZ11N",
+        "lat": 52.44634,
+        "lng": 16.87477,
+        "street": "Literacka 34",
+        "postal": "60-471 Poznań"
+    },
+    {
+        "name": "Przy Galerii Malta",
+        "number": "POZ12A",
+        "lat": 52.40203,
+        "lng": 16.95962,
+        "street": "Maltańska 1",
+        "postal": "61-131 Poznań"
+    },
+    {
+        "name": "Stacja paliw BP",
+        "number": "POZ12B",
+        "lat": 52.4337,
+        "lng": 16.80133,
+        "street": "Dąbrowskiego 543",
+        "postal": "60-451 Poznań"
+    },
+    {
+        "name": "Przy sklepie Dino",
+        "number": "POZ12ML",
+        "lat": 52.36836,
+        "lng": 16.87396,
+        "street": "Pszczyńska 40",
+        "postal": "60-102 Poznań"
+    },
+    {
+        "name": "Przy sklepie spożywczym",
+        "number": "POZ12N",
+        "lat": 52.40877,
+        "lng": 16.83689,
+        "street": "Ezopa 2",
+        "postal": "60-195 Poznań"
+    },
+    {
+        "name": "Przy markecie Chata Polska",
+        "number": "POZ13A",
+        "lat": 52.43463,
+        "lng": 16.82706,
+        "street": "Muszkowska 2",
+        "postal": "60-434 Poznań"
+    },
+    {
+        "name": "Przy sklepie Żabka",
+        "number": "POZ13B",
+        "lat": 52.37084,
+        "lng": 16.90103,
+        "street": "Opolska 24",
+        "postal": "61-433 Poznań"
+    },
+    {
+        "name": "Przy sklepie Żabka",
+        "number": "POZ13N",
+        "lat": 52.45699,
+        "lng": 16.89575,
+        "street": "Omańkowskiej 108",
+        "postal": "60-465 Poznań"
+    },
+    {
+        "name": "Przy markecie Chata Polska",
+        "number": "POZ14A",
+        "lat": 52.46326,
+        "lng": 16.90312,
+        "street": "Stróżyńskiego 29",
+        "postal": "60-688 Poznań"
+    },
+    {
+        "name": "Stacja paliw BP",
+        "number": "POZ14B",
+        "lat": 52.37517,
+        "lng": 16.89423,
+        "street": "Czechosłowacka 102",
+        "postal": "61-476 Poznań"
+    },
+    {
+        "name": "Przy sklepie Bio Family",
+        "number": "POZ14N",
+        "lat": 52.42691,
+        "lng": 16.93655,
+        "street": "Murawa 2",
+        "postal": "61-655 Poznań"
+    },
+    {
+        "name": "Przy Zakładzie Opieki Zdrowotnej",
+        "number": "POZ15B",
+        "lat": 52.44796,
+        "lng": 16.90797,
+        "street": "Obornicka 262",
+        "postal": "60-693 Poznań"
+    },
+    {
+        "name": "Na parkingu",
+        "number": "POZ15N",
+        "lat": 52.36114,
+        "lng": 17.01712,
+        "street": "Szczepankowo 99A",
+        "postal": "61-307 Poznań"
+    },
+    {
+        "name": "Przy wejściu do Galerii Dębiec",
+        "number": "POZ16A",
+        "lat": 52.3635,
+        "lng": 16.9032,
+        "street": "28 Czerwca 1956 roku 384",
+        "postal": "61-441 Poznań"
+    },
+    {
+        "name": "Stacja paliw Lukoil",
+        "number": "POZ16B",
+        "lat": 52.40979,
+        "lng": 16.9731,
+        "street": "Warszawska 67",
+        "postal": "61-031 Poznań"
+    },
+    {
+        "name": "Przy sklepie Freshmarket",
+        "number": "POZ16N",
+        "lat": 52.34176,
+        "lng": 16.91823,
+        "street": "Głuszyna 2",
+        "postal": "61-332 Poznań"
+    },
+    {
+        "name": "Przy PIXEL Allegro",
+        "number": "POZ17A",
+        "lat": 52.39154,
+        "lng": 16.85809,
+        "street": "Grunwaldzka 182",
+        "postal": "60-166 Poznań"
+    },
+    {
+        "name": "Przy sklepie Carrefour",
+        "number": "POZ17N",
+        "lat": 52.40881,
+        "lng": 16.98522,
+        "street": "Nowogrodzka 13/15",
+        "postal": "61-047 Poznań"
+    },
+    {
+        "name": "Przy markecie Tesco",
+        "number": "POZ18A",
+        "lat": 52.46139,
+        "lng": 16.91894,
+        "street": "Opieńskiego 1",
+        "postal": "60-685 Poznań"
+    },
+    {
+        "name": "Przy sklepie Chata Polska",
+        "number": "POZ18N",
+        "lat": 52.46131,
+        "lng": 16.94781,
+        "street": "Naramowicka 234",
+        "postal": "61-607 Poznań"
+    },
+    {
+        "name": "Przy sklepie Biedronka",
+        "number": "POZ19A",
+        "lat": 52.439,
+        "lng": 16.948,
+        "street": "Naramowicka 104",
+        "postal": "61-619 Poznań"
+    },
+    {
+        "name": "Przy Galerii A2",
+        "number": "POZ19N",
+        "lat": 52.35382,
+        "lng": 16.84078,
+        "street": "Głogowska 440",
+        "postal": "60-004 Poznań"
+    },
+    {
+        "name": "Parking Apteki Krzyżowniki",
+        "number": "POZ20A",
+        "lat": 52.43495,
+        "lng": 16.8095,
+        "street": "Sianowska 151A",
+        "postal": "60-431 Poznań"
+    },
+    {
+        "name": "Przy magazynach Storico",
+        "number": "POZ20N",
+        "lat": 52.37325,
+        "lng": 16.96995,
+        "street": "Dziadoszańska 10",
+        "postal": "61-248 Poznań"
+    },
+    {
+        "name": "Przy sklepie Green Point",
+        "number": "POZ21N",
+        "lat": 52.38656,
+        "lng": 16.91218,
+        "street": "Hetmańska 91",
+        "postal": "60-218 Poznań"
+    },
+    {
+        "name": "Stacja paliw BP",
+        "number": "POZ22A",
+        "lat": 52.4066,
+        "lng": 16.88891,
+        "street": "Przybyszewskiego 39A",
+        "postal": "60-356 Poznań"
+    },
+    {
+        "name": "Przy sklepie Społem PSS",
+        "number": "POZ22N",
+        "lat": 52.39013,
+        "lng": 16.95905,
+        "street": "Oświecenia 59",
+        "postal": "61-208 Poznań"
+    },
+    {
+        "name": "Stacja paliw BP",
+        "number": "POZ23A",
+        "lat": 52.39657,
+        "lng": 16.94844,
+        "street": "Rondo Rataje ",
+        "postal": "61-144 Poznań"
+    },
+    {
+        "name": "Przy Centrum Handlowym Świerczewo",
+        "number": "POZ23N",
+        "lat": 52.3775,
+        "lng": 16.88109,
+        "street": "Leszczyńska 3",
+        "postal": "60-115 Poznań"
+    },
+    {
+        "name": "Przy sklepie Tesco EXTRA 24H",
+        "number": "POZ25A",
+        "lat": 52.43289,
+        "lng": 16.95058,
+        "street": "Serbska 7",
+        "postal": "60-696 Poznań"
+    },
+    {
+        "name": "Na parkingu przy budynku mieszkalnym",
+        "number": "POZ25N",
+        "lat": 52.31248,
+        "lng": 16.9665,
+        "street": "Aleksandra Gabszewicza 6",
+        "postal": "61-332 Poznań"
+    },
+    {
+        "name": "Stacja paliw BP",
+        "number": "POZ26A",
+        "lat": 52.42669,
+        "lng": 16.97776,
+        "street": "Bałtycka 37",
+        "postal": "61-017 Poznań"
+    },
+    {
+        "name": "Przy markecie Biedronka",
+        "number": "POZ26N",
+        "lat": 52.38668,
+        "lng": 16.98299,
+        "street": "Czecha 111",
+        "postal": "61-291 Poznań"
+    },
+    {
+        "name": "Stacja paliw BP",
+        "number": "POZ27A",
+        "lat": 52.431,
+        "lng": 16.94669,
+        "street": "Serbska 24",
+        "postal": "61-696 Poznań"
+    },
+    {
+        "name": "Przy Centrum Handlowym King Cross Marcelin",
+        "number": "POZ27N",
+        "lat": 52.41153,
+        "lng": 16.86391,
+        "street": "Bukowska 156",
+        "postal": "60-198 Poznań"
+    },
+    {
+        "name": "Przy markecie E.Leclerc",
+        "number": "POZ28A",
+        "lat": 52.38777,
+        "lng": 16.89106,
+        "street": "Winklera 1",
+        "postal": "60-246 Poznań"
+    },
+    {
+        "name": "Przy markecie Piotr i Paweł",
+        "number": "POZ28N",
+        "lat": 52.38651,
+        "lng": 16.86405,
+        "street": "Promienista 160",
+        "postal": "60-142 Poznań"
+    },
+    {
+        "name": "Hol główny dworca PKP - Poznań",
+        "number": "POZ29A",
+        "lat": 52.40287,
+        "lng": 16.91227,
+        "street": "Dworcowa 1",
+        "postal": "61-801 Poznań"
+    },
+    {
+        "name": "Przy domach studenckich",
+        "number": "POZ30N",
+        "lat": 52.42844,
+        "lng": 16.91721,
+        "street": "Piątkowska 80",
+        "postal": "60-650 Poznań"
+    },
+    {
+        "name": "Stacja paliw BP",
+        "number": "POZ31A",
+        "lat": 52.44375,
+        "lng": 16.92987,
+        "street": "Umultowska 2",
+        "postal": "60-995 Poznań"
+    },
+    {
+        "name": "Przy restauracji Kasztelańska",
+        "number": "POZ31N",
+        "lat": 52.39048,
+        "lng": 16.94259,
+        "street": "os. Piastowskie 64",
+        "postal": "61-155 Poznań"
+    },
+    {
+        "name": "Stacja paliw Lotos",
+        "number": "POZ320",
+        "lat": 52.43535,
+        "lng": 16.92357,
+        "street": "Al.Solidarności 48",
+        "postal": "61-696 Poznań"
+    },
+    {
+        "name": "Stacja paliw BP",
+        "number": "POZ32A",
+        "lat": 52.43871,
+        "lng": 16.92134,
+        "street": "Mieszka I 28",
+        "postal": "61-689 Poznań"
+    },
+    {
+        "name": "Przy parkingu Uniwersytetu im. Adama Mickiewicza",
+        "number": "POZ32N",
+        "lat": 52.46328,
+        "lng": 16.94132,
+        "street": "Krygowskiego 10",
+        "postal": "60-680 Poznań"
+    },
+    {
+        "name": "Przy lokalu wolnostojącym Sprzedaż okien",
+        "number": "POZ33A",
+        "lat": 52.43706,
+        "lng": 16.9283,
+        "street": "os. Zwycięstwa 13",
+        "postal": "61-647 Poznań"
+    },
+    {
+        "name": "Przy Wydziale Fizyki Uniwersytetu im. Adama Mickiewicza",
+        "number": "POZ33N",
+        "lat": 52.46685,
+        "lng": 16.92876,
+        "street": "Umultowska 85",
+        "postal": "61-614 Poznań"
+    },
+    {
+        "name": "Stacja paliw BP",
+        "number": "POZ34A",
+        "lat": 52.37651,
+        "lng": 16.95758,
+        "street": "Kurlandzka 2",
+        "postal": "61-285 Poznań"
+    },
+    {
+        "name": "Przy markecie Biedronka",
+        "number": "POZ34N",
+        "lat": 52.41114,
+        "lng": 16.93982,
+        "street": "Piaskowa 2/3",
+        "postal": "60-101 Poznań"
+    },
+    {
+        "name": "Galeria Handlowa Posnania, poziom -1, strefa Premium Lounge PN-SB 10:00-22:00 ND 10:00-21:00",
+        "number": "POZ35A",
+        "lat": 52.39832,
+        "lng": 16.95471,
+        "street": "Pleszewska 1",
+        "postal": "61-136 Poznań"
+    },
+    {
+        "name": "Przy Centrum Handlowym Panorama",
+        "number": "POZ35N",
+        "lat": 52.38045,
+        "lng": 16.89673,
+        "street": "Górecka 30",
+        "postal": "60-201 Poznań"
+    },
+    {
+        "name": "Stacja paliw BP",
+        "number": "POZ36A",
+        "lat": 52.38422,
+        "lng": 16.91528,
+        "street": "Hetmańska 98",
+        "postal": "61-493 Poznań"
+    },
+    {
+        "name": "Przy Domu Studenckim Jowita",
+        "number": "POZ36N",
+        "lat": 52.40767,
+        "lng": 16.90811,
+        "street": "Zwierzyniecka 7",
+        "postal": "60-813 Poznań"
+    },
+    {
+        "name": "Przy skupie złomu",
+        "number": "POZ37A",
+        "lat": 52.41533,
+        "lng": 16.90536,
+        "street": "Kościelna 23",
+        "postal": "60-995 Poznań"
+    },
+    {
+        "name": "Przy prywatnej posesji",
+        "number": "POZ38A",
+        "lat": 52.42157,
+        "lng": 16.9715,
+        "street": "Główna 65",
+        "postal": "61-019 Poznań"
+    },
+    {
+        "name": "Przy Uniwersytecie im. Adama Mickiewicza - Wydział Prawa i Administracji",
+        "number": "POZ38N",
+        "lat": 52.41522,
+        "lng": 16.92467,
+        "street": "Al. Niepodległości 53",
+        "postal": "61-714 Poznań"
+    },
+    {
+        "name": "Przy markecie Netto",
+        "number": "POZ393",
+        "lat": 52.38357,
+        "lng": 16.96673,
+        "street": "os. Stare Żegrze 109",
+        "postal": "61-246 Poznań"
+    },
+    {
+        "name": "Przy sklepie Stokrotka",
+        "number": "POZ39A",
+        "lat": 52.38853,
+        "lng": 16.94989,
+        "street": "Jastrzębia 4",
+        "postal": "61-155 Poznań"
+    },
+    {
+        "name": "Przy Auto Serwisie",
+        "number": "POZ39N",
+        "lat": 52.45182,
+        "lng": 16.90417,
+        "street": "Obornicka 288",
+        "postal": "60-693 Poznań"
+    },
+    {
+        "name": "Stacja paliw BP",
+        "number": "POZ406",
+        "lat": 52.44361,
+        "lng": 16.91017,
+        "street": "Rondo Obornickie ",
+        "postal": "60-687 Poznań"
+    },
+    {
+        "name": "Przy markecie Lidl",
+        "number": "POZ40A",
+        "lat": 52.38824,
+        "lng": 16.88859,
+        "street": "Palacza 18",
+        "postal": "60-241 Poznań"
+    },
+    {
+        "name": "Przy bloku mieszkalnym",
+        "number": "POZ40N",
+        "lat": 52.45851,
+        "lng": 16.88226,
+        "street": "Szarych Szeregów 24",
+        "postal": "60-462 Poznań"
+    },
+    {
+        "name": "Przy markecie M1",
+        "number": "POZ412",
+        "lat": 52.38252,
+        "lng": 16.99457,
+        "street": "Szwajcarska 14",
+        "postal": "61-285 Poznań"
+    },
+    {
+        "name": "Przy markecie Lidl",
+        "number": "POZ41A",
+        "lat": 52.38503,
+        "lng": 16.94344,
+        "street": "Zamenhofa 132",
+        "postal": "61-139 Poznań"
+    },
+    {
+        "name": "Przy markecie Intermarche",
+        "number": "POZ961",
+        "lat": 52.45172,
+        "lng": 16.9275,
+        "street": "Umultowska 32",
+        "postal": "61-614 Poznań"
+    },
+    {
+        "name": "Przy Delikatesach Centrum",
+        "number": "POZ989",
+        "lat": 52.37917,
+        "lng": 16.9539,
+        "street": "Osiedle Armii Krajowej 125",
+        "postal": "61-381 Poznań"
+    }
+]
