@@ -4,6 +4,7 @@
   "author": "",
   "description": "An electron-vue project",
   "license": null,
+  "repo": "https://github.com/pistoolero/paczkomaty_prototyp",
   "main": "./dist/electron/main.js",
   "scripts": {
     "build": "node .electron-vue/build.js && electron-builder",

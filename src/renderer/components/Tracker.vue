@@ -34,7 +34,7 @@
           :title="marker.name + ', ' + marker.street + ', ' + marker.postal"
           v-b-tooltip.hover
           :animation="currentMarker === marker ? 1 : 3"
-          icon="/static/img/parcel.png"
+          :icon="icon"
           :label="{
             color: currentMarker === marker ? '#02B875' : '#fdd835',
             fontSize: '20px',
@@ -67,6 +67,7 @@ export default {
         lat: 52.4664886,
         lng: 16.9243717
       },
+      icon: "/static/img/parcel.png"
       zoom: 14,
       markers: markers,
       hideAccuracy: false,
